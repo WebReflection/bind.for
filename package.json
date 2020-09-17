@@ -1,6 +1,6 @@
 {
   "name": "bind.for",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lazy Function.prototype.for(context) bind helper",
   "main": "./cjs/index.js",
   "scripts": {
