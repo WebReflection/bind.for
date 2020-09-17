@@ -1,1 +1,1 @@
-!function(){"use strict";const{defineProperty:t}=Object,e="for";e in t||t(Function.prototype,e,{value(n){const o=new WeakMap,r=t=>{const e=this.bind(t);return o.set(t,e),e};return t(this,e,{value:t=>o.get(t)||r(t)}),r(n)}})}();
+!function(){"use strict";const{defineProperty:t}=Object,n="for";n in t||t(Function.prototype,n,{value:function(e){const o=new WeakMap,i=t=>{const n=this.bind(t);return o.set(t,n),n};return t(this,n,{value:t=>o.get(t)||i(t)}),i(e)}})}();
