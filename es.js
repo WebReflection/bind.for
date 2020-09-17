@@ -1,0 +1,1 @@
+!function(){"use strict";const{defineProperty:t}=Object,e="for";e in t||t(Function.prototype,e,{value(n){const o=new WeakMap,r=t=>{const e=this.bind(t);return o.set(t,e),e};return t(this,e,{value:t=>o.get(t)||r(t)}),r(n)}})}();
